@@ -1,0 +1,37 @@
+body{
+    background-color: #2C2C2C;
+    color: #DEDEDE;
+}
+.higest_header{
+    text-align: center;
+    font-size: 35px;
+
+}
+.Logo{
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    display:flex;
+    position: absolute;
+    margin: 10px;
+    height: 120px;
+    width: 120px;
+}
+.ItalianGameAnalise{
+    margin-top: 500px;
+}
+.ItalianGame{
+    display: flex;
+    margin: 0px 50px;
+    justify-content: space-between;
+    padding-bottom: 250px;
+}
+.FrenchGame{
+    display: flex;
+    margin: 0px 50px;
+    justify-content: space-between;
+    padding-bottom: 250px;
+}
+.FrenchGameAnalise{
+    margin-top: 200px;
+}
